@@ -1,5 +1,5 @@
 body {
-	background-image: url(http://mockupstore.com/wp-content/uploads/2017/03/fashion-background-mockup-111557.jpeg);
+	background-image: url(designer.JPEG);
 }
 
 * {box-sizing: border-box;}
@@ -103,67 +103,21 @@ img{
 	height: 200PX;
 	margin: 10PX;
 	transition: all 1s;
+	page-break-inside: left;
+
+
 
 }
 
 img:hover {
 	transform: scale(1.1);
-	
-div.polaroid {
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 25px;
 }
-
-div.container {
-  text-align: center;
-  padding: 10px 20px;
-}	
 
 .container{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 }
-	
-.container {
-  position: relative;
-  width: 50%;
-}
-
-.image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
-
-.middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%)
-}
-
-.container:hover .image {
-  opacity: 0.3;
-}
-
-.container:hover .middle {
-  opacity: 1;
-}
-
-.text {
-  background-color: #4CAF50;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
-}	
 
 iframe{stop-color: 
 
