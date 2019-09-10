@@ -108,9 +108,9 @@ img{
 
 img:hover {
 	transform: scale(1.1);
-
+	
 div.polaroid {
-  background-color: grey;
+  background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
 }
@@ -118,8 +118,7 @@ div.polaroid {
 div.container {
   text-align: center;
   padding: 10px 20px;
-	background color: lightblue;
-}
+}	
 
 .container{
 	display: flex;
