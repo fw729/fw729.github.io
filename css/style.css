@@ -141,3 +141,11 @@ iframe{stop-color:
   object-position: bottom;
   padding-bottom: 
 }
+
+.div2 {
+  width: 650px;
+  height: 100px;  
+  padding: 50px;
+  border: 1px solid grey;
+  box-sizing: border-box;
+}
