@@ -83,11 +83,12 @@ font-family: fantasy;
 border-bottom: 2PX solid grey;
 border-right: 2px solid grey;
 border-left: 2px solid grey;
-width: 600px;
+width: 650px;
 text-align: center;
 box-shadow: 4px 4px 4px 4px;
 	border-bottom: 3px solid purple ;
   background-color: blue;
+	font-family: "Times New Roman", Times, serif;
 }
 
 
