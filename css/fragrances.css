@@ -78,13 +78,13 @@ body {
 }
 
 h1 {
-	color: purple;
+	color: yellow;
 font-size: 350%;
 font-family: "Times New Roman", Times, serif;
-border-bottom: 2PX solid grey;
-border-right: 2px solid grey;
-border-left: 2px solid grey;
-width: 800px;
+border-bottom: 5PX solid grey;
+border-right: 5px solid grey;
+border-left: 5px solid grey;
+width: 650px;
 text-align: center;
 }
 
