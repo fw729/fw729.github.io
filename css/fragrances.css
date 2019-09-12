@@ -92,7 +92,7 @@ text-align: center;
 h5 {
 	color: purple;
 	font-size: 50px;
-	background-image: url(https://comps.canstockphoto.com/uk-flag-wallpaper-drawing_csp6703334.jpg); 
+	background-image: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0123/2297/jubileejackRGB_shop_swatch_thumb.png); 
 	border-bottom: 2PX solid grey;
     border-right: 2px solid grey;
     border-left: 2px solid grey;
@@ -150,5 +150,5 @@ iframe{stop-color:
   padding: 50px;
   border: 5px solid grey;
   box-sizing: border-box;
-	background-color: grey;
+  background-image: url(https://www.dicey.biz/wp-content/uploads/2018/09/thumbnail_WhiteRoom2.jpg);
 }
