@@ -1,4 +1,5 @@
-body {
+body {  
+	width: 1350px
 	background-image: url(https://hdwallsbox.com/wallpapers/l/1920x1080/62/black-white-london-typography-big-ben-triangles-lanthemann-1920x1080-61486.jpg);
 }
 
@@ -80,7 +81,7 @@ body {
 h1 {
 	color: yellow;
 font-size: 350%;
-font-family: fantasy;
+font-family: "Times New Roman", Times, serif;
 border-bottom: 2PX solid grey;
 border-right: 2px solid grey;
 border-left: 2px solid grey;
