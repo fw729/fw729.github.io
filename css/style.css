@@ -162,6 +162,7 @@ div.gallery {
 	border: 1px ;
 	float: left;
 	width: 250px;
+	box-sizing: border-box;
 }
 div.galery:hover {
 	border: 1px solid #777;
@@ -170,9 +171,11 @@ div.galery:hover {
 div.gallery img {
   width: 100%;
 	height: auto;
+	box-sizing: border-box;
 }
 
 div.desc {
   padding: 15px;
   text align: center;
+	box-sizing: border-box;
 }
