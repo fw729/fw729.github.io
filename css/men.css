@@ -1,6 +1,6 @@
 body {
 	background-image: url(https://www.picclickimg.com/d/l400/pict/202641720062_/2pac-Rap-Phenomenon-2-Mixtape-Official-Album-CD.jpg);
-  background-size: 1350px;
+  background-size: 1150px;
 }
 
 * {box-sizing: border-box;}
@@ -78,23 +78,20 @@ body {
   }
 }
 
-h1 {color: yellow;
+h1 {color: red;
 font-size: 350%;
 font-family: "Times New Roman", Times, serif;
-border-bottom: 2PX solid grey;
-border-right: 2px solid grey;
-border-left: 2px solid grey;
-width: 650px;
-text-align: center
-box-shadow: 4px 4px 4px 4px;
+border-bottom: 20PX solid grey;
+border-right: 20px solid grey;
+border-left: 20px solid grey;
+box-shadow: 40px 40px 40px 40px;
 	border-bottom: 3px solid purple ;
-  background-color: white;
 	font-family: "Times New Roman", Times, serif;
 }
 
 
 h5 {
-	color: red;
+	color: black;
 	font-size: 50px;
 	font-family: "Times New Roman", Times, serif;
 	background-image: url(blue.jpg); 
