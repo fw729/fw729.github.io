@@ -149,13 +149,16 @@ iframe{stop-color:
 }
 
 .div2 {
-  width: 1330px;
-  height: 350px;  
-  padding: 50px;
-  border: 5px solid grey;
-  box-sizing: border-box;
+	color: black;
+	font-size: 50px;
+	font-family: "Times New Roman", Times, serif;
+	background-image: url(blue.jpg); 
+	border-bottom: 2PX solid grey;
+    border-right: 2px solid grey;
+    border-left: 2px solid grey;
 	background-image: url(https://i.pinimg.com/originals/5f/54/87/5f5487d8d519b9318386e08ec5aa25ee.jpg);
 }
+
 
 div.gallery {
 	margin: 5px;
