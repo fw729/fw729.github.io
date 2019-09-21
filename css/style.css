@@ -181,7 +181,7 @@ div.gallery {
 	margin: 5px;
 	border: 1px ;
 	float: left
-	width: 250px
+	width: 250px;
 	box-sizing: border-box;
 }
 div.galery:hover {
