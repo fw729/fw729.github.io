@@ -93,7 +93,7 @@ box-shadow: 4px 4px 4px 4px;
 
 
 h5 {
-	color: black;
+	color: white;
 	font-size: 50px;
 	font-family: "Times New Roman", Times, serif;
 	background-image: url(blue.jpg); 
@@ -102,22 +102,6 @@ h5 {
     border-left: 2px solid grey;
 	background-image: url(https://i.pinimg.com/originals/5f/54/87/5f5487d8d519b9318386e08ec5aa25ee.jpg);
 }
-
-.dropbtn {
-  background-color: #4CAF50;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
-}
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-
 
 img{
 	animation: backwards;
@@ -128,78 +112,4 @@ img{
 	page-break-inside: center;
 
 
-}
 
-img:hover {
-	transform: scale(1.1);
-	
-}
-
-.container{
-	display: grid;
-	grid-gap: 20px;
-	grid-template-columns: repeat(auto-fill 300px);
-	grid-template-rows: 1fr;
-	justify-content: center;
-	
-}
-
-
-iframe{stop-color: 
-
-}
-
-.button {
-  background-color: lightblue;
-  border: none;
-  color: black;
-  padding: 10px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-
-.checked {
-  color: orange;
-  object-position: bottom;
-  padding-bottom: 
-}
-
-.div2 {
-	color: black;
-	font-size: 50px;
-	font-family: "Times New Roman", Times, serif;
-	background-image: url(blue.jpg); 
-	border-top: 2px solid grey;
-	border-bottom: 2PX solid grey;
-    border-right: 2px solid grey;
-    border-left: 2px solid grey;
-	background-image: url(https://i.pinimg.com/originals/5f/54/87/5f5487d8d519b9318386e08ec5aa25ee.jpg);
-}
-
-
-div.gallery {
-	margin: 5px;
-	border: 1px ;
-	float: left
-	width: 250px;
-	box-sizing: border-box;
-}
-div.galery:hover {
-	border: 1px solid red;
-}
-
-div.gallery img {
-  width: 100%;
-	height: auto;
-	box-sizing: border-box;
-}
-
-div.desc {
-  padding: 15px;
-  text align: center;
-	box-sizing: border-box;
-}
