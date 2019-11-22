@@ -1,6 +1,6 @@
 body {  
 	background-image: url(https://i.ytimg.com/vi/XLbIbrKVGSk/maxresdefault.jpg);
-        background-size: 1250px
+        background-size: 1550px
 }
 
 * {box-sizing: border-box;}
@@ -95,8 +95,10 @@ h5 {
 	font-size: 50px;
 	background-image: url(https://www.dicey.biz/wp-content/uploads/2018/09/thumbnail_WhiteRoom2.jpg); 
 	border-bottom: 2PX solid grey;
-    border-right: 2px solid grey;
-    border-left: 2px solid grey;
+        border-right: 2px solid grey;
+        border-left: 2px solid grey;
+	width: 800px;
+        text-align: center;
 	font-family: "Times New Roman", Times, serif;
 }
 
